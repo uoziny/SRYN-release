@@ -1,0 +1,92 @@
+             ==================================================================
+              SRYN (Secure Resilient Yielding Network) Java Encryption Library
+             ==================================================================
+
+               Copyright (c) 2024-present kumadastudio (uoziny)
+                            All rights reserved.
+
+              	SPDX-License-Identifier: LicenseRef-SRYN-Dual
+
+================================================================================
+    DUAL LICENSE: PERSONAL/ACADEMIC/NON-COMMERCIAL   +   COMMERCIAL/PROPRIETARY
+================================================================================
+
+ 1. PERSONAL / ACADEMIC / NON-COMMERCIAL LICENSE
+
+      This software is provided FREE OF CHARGE for:
+        • Personal (individual, private) use
+        • Educational, academic, or coursework use
+        • Scientific research, thesis, or non-profit open-source projects
+
+      No license fee or contract is required for these purposes,
+      as long as it is NOT used for commercial, business, for-profit,
+      revenue-generating, or government applications/services.
+
+ 2. COMMERCIAL / BUSINESS / FOR-PROFIT LICENSE
+
+      Any use in a COMMERCIAL, BUSINESS, FOR-PROFIT, or GOVERNMENT CONTEXT
+      (including, but not limited to:
+        - Internal/external company, organization, or government use
+        - SaaS, PaaS, IaaS, OEM, embedded, paid apps, or commercial products
+        - Redistribution, resale, or integration into any product/service
+        - Consulting, client delivery, or use for direct/indirect financial gain)
+      REQUIRES A SEPARATE PAID LICENSE AND EXPLICIT WRITTEN CONTRACT
+      with kumadastudio (uoziny).
+
+      For commercial licensing, you MUST contact:
+         uoziny@gmail.com
+
+ 3. COPYRIGHT, INTELLECTUAL PROPERTY, AND PATENT NOTICE
+
+      All copyrights, trademarks, trade secrets, and intellectual property
+      related to this software (source code, design, algorithms, cryptographic
+      methods, documentation, and mathematical formulations) are the sole property
+      of kumadastudio (uoziny).
+
+      Unauthorized use, copying, modification, obfuscation, reverse engineering,
+      decompiling, or creation of derivative works for commercial purposes is
+      strictly prohibited and will be prosecuted.
+
+      This software and its cryptographic design may be subject to patent
+      applications and additional legal protections.
+
+ 4. LEGAL ENFORCEMENT, JURISDICTION, AND DAMAGES
+
+      Unauthorized or unlicensed commercial use constitutes direct infringement of
+      international copyright law, the Korean Copyright Act, the Unfair Competition
+      Prevention and Trade Secret Protection Act, the Computer Program Protection Act,
+      and may also constitute patent infringement.
+
+      Upon discovery of unauthorized commercial or business use, kumadastudio (uoziny)
+      reserves the right to:
+        • Immediately terminate any implied or explicit license
+        • Seek injunctions and removal of infringing software/services
+        • Demand full financial compensation for unauthorized use
+        • Pursue civil and criminal action in all relevant jurisdictions
+        • Seek punitive damages and recovery of all legal costs
+
+      All disputes, claims, or legal matters arising from this license or use of this
+      software will be governed under the laws of the Republic of Korea and relevant
+      international treaties.
+
+ 5. WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY
+
+      This software is provided "AS IS" and WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED.
+      In no event shall the authors or copyright holders
+      be liable for any direct, indirect, incidental, special, exemplary, or
+      consequential damages (including but not limited to procurement of substitute
+      goods or services, loss of data, business interruption, or loss of profits)
+      arising in any way out of the use or inability to use this software, even if
+      advised of the possibility of such damage.
+
+ 6. ATTRIBUTION
+
+      Any distribution, sharing, publication, or academic citation of this software
+      (even for non-commercial use) must retain this license text and proper
+      attribution as follows:
+         kumadastudio (uoziny)   <uoziny@gmail.com>
+
+================================================================================
+        For all licensing, legal, or technical inquiries, contact:
+                                uoziny@gmail.com
+================================================================================
