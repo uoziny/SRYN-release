@@ -1,0 +1,2 @@
+# SRYN-release
+deploy-jar
